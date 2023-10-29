@@ -1,11 +1,10 @@
-<!doctype html>
 <html>
-    <head>
+    <cabeça>
         <h1>
-            PAULA ESTER EU TE AMO
+ PAULA ESTER EU TE AMO
         </h1>
-    </head>
-    <body>
+    </cabeça>
+    <corpo>
         <p>te amo meu amorzinho </p>
-    </body>
+    </corpo>
 </html>
